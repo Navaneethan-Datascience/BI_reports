@@ -1,0 +1,1 @@
+-> In this financial data shows Frace,Germany,USA,Canada and Mexico coutry's 2013 and 2014 years sales wise category on channel partners,enterprise,goverment,midmarket and small_buisness 
